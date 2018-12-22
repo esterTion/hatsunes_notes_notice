@@ -1,6 +1,9 @@
 {
-  "ver": "181221",
-  "en": "Due to server issues, currently we are updating database manually, and image service is not available. \nRecovery is scheduled in a week. \n2018/12/21",
-  "zh": "因服务器问题，当前服务器端数据库为手动更新，并且图片资源暂时不可用。\n预计的恢复时间为一周内。\n2018/12/21",
-  "jp": "サーバーの問題により、現在のサーバー側データベースが手動で更新され、イメージリソースが一時的に使用できなくなります。\n推定復旧時間は1週間です。\n2018/12/21"
+  	"version": "181221",
+  	"default": "en",
+  	"contents": {
+	  	"en": "Due to server issues, currently we are updating database manually, and image service is not available. \nRecovery is scheduled in a week. \n2018/12/21",
+	  	"zh": "因服务器问题，当前服务器端数据库为手动更新，并且图片资源暂时不可用。\n预计的恢复时间为一周内。\n2018/12/21",
+	 	"jp": "サーバーの問題により、現在のサーバー側データベースが手動で更新され、イメージリソースが一時的に使用できなくなります。\n推定復旧時間は1週間です。\n2018/12/21"
+	 }
 }
