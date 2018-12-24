@@ -1,14 +1,15 @@
 {
-	"version": "181222",
+	"version": "181225",
 	"default": "en",
 	"titles": {
-		"en": "Functions limited",
-		"zh": "功能限制",
-		"ja": "機能制限"
+		"en": "Service recovered",
+		"zh": "服务器已恢复",
+		"ja": "サービス回復しました"
 	},
 	"contents": {
-		"en": "Due to server issues, currently we are updating database manually, and image service is not available. \nRecovery is scheduled in a week. \n\nSorry for the inconvenience. \n2018/12/21",
-		"zh": "因服务器问题，当前服务器端数据库为手动更新，并且图片资源暂时不可用。\n预计的恢复时间为一周内。\n\n带来不便还请谅解。\n2018/12/21",
-		"ja": "サーバーの問題により、現在のサーバー側データベースが手動で更新され、イメージリソースが一時的に使用できなくなります。\n推定復旧時間は1週間です。\n\nご不便おかけしてすみません。\n2018/12/21"
+		"en": "Image server is back in operation. Thanks for your patience and continuous support. \n2018/12/25",
+		"zh": "图片服务器已恢复正常，感谢您的耐心与长久以来的支持。\n2018/12/25",
+		"ja": "ただいま画像サービスが正常に戻りました。いつもご利用誠にありがとうございます。\n2018/12/25",
+		"jp": "ただいま画像サービスが正常に戻りました。いつもご利用誠にありがとうございます。\n2018/12/25"
 	}
 }
