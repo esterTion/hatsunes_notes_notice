@@ -1,6 +1,7 @@
 {
 	"version": "181225",
 	"default": "en",
+	"expire_date": "2019/01/01 00:00:00",
 	"titles": {
 		"en": "Service recovered",
 		"zh": "服务器已恢复",
