@@ -1,16 +1,15 @@
 {
-	"version": "181225",
+	"version": "190331",
 	"default": "en",
-	"expire_date": "2019/01/01 00:00:00",
+	"expire_date": "2019/04/07 00:00:00",
 	"titles": {
-		"en": "Service recovered",
-		"zh": "服务器已恢复",
-		"ja": "サービス回復しました"
+		"en": "Update available",
+		"zh": "有可用更新",
+		"ja": "新バージョンがあります"
 	},
 	"contents": {
-		"en": "Image server is back in operation. Thanks for your patience and continuous support. \n2018/12/25",
-		"zh": "图片服务器已恢复正常，感谢您的耐心与长久以来的支持。\n2018/12/25",
-		"ja": "ただいま画像サービスが正常に戻りました。いつもご利用誠にありがとうございます。\n2018/12/25",
-		"jp": "ただいま画像サービスが正常に戻りました。いつもご利用誠にありがとうございます。\n2018/12/25"
+		"en": "1.1.4 (99) is released to address issue where アン & ルゥ is not showing in character list. ",
+		"zh": "1.1.4 (99) 更新已发布，解决了 アン & ルゥ 未显示的问题",
+		"ja": "1.1.4 (99) をリリースいたしました。アン & ルゥ　が表示しない不具合を修正しました。"
 	}
 }
