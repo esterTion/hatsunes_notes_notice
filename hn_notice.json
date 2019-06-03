@@ -1,15 +1,15 @@
 {
-	"version": "190524",
+	"version": "190603",
 	"default": "en",
-	"expire_date": "2019/05/30 23:00:00",
+	"expire_date": "2019/06/10 23:00:00",
 	"titles": {
-		"en": "Update available",
-		"zh": "有可用更新",
-		"ja": "新バージョンがあります"
+		"en": "Service unavailable",
+		"zh": "服务不可用",
+		"ja": "Service unavailable"
 	},
 	"contents": {
-		"en": "1.1.4 (109) is released with ability of viewing boss parts data in this month's clan battle. ",
-		"zh": "1.1.4 (109) 更新已发布，添加了本月公会战的分部位数据的查看",
-		"ja": "1.1.4 (109) をリリースいたしました。今月のクランバトルのボスパーツデータを追加しました。"
+		"en": "Image server is currently unavailable, recovery time unknown. ",
+		"zh": "图片服务器暂时不可用，恢复时间待定",
+		"ja": "画像サーバーは現在使用できません、回復時間不明"
 	}
 }
