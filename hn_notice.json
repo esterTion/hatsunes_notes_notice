@@ -1,7 +1,7 @@
 {
 	"version": "190603",
 	"default": "en",
-	"expire_date": "2019/06/10 23:00:00",
+	"expire_date": "2019/06/03 23:00:00",
 	"titles": {
 		"en": "Service unavailable",
 		"zh": "服务不可用",
